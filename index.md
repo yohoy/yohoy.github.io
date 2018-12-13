@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+bigimg: [{src: "/img/bigimg.jpg", desc: "bigimg"}]
 ---
 
 # Nutrition and Ecology, are they mutually exclusive?
