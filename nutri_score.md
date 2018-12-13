@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Nutri-Score
-permalink: /nutri-score/
+permalink: /nutri_score/
 ---
 # Nutri-Score
 The Nutri-Score system was developped after Article 14 of the Modernisation Law for the health system, dated 26 January 2016, required the french authorities to recommend a front-of-pack system of labelling that would be simple and accessible for all.
