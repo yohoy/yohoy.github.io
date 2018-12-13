@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Nutri-Score
+bigimg: /img/nutri_score_2.png
 permalink: /nutri_score/
 ---
 # Nutri-Score
-![Nutri-Score](/img/nutri_score.png)
 The Nutri-Score system was developped after Article 14 of the Modernisation Law for the health system, dated 26 January 2016, required the french authorities to recommend a front-of-pack system of labelling that would be simple and accessible for all.
 The new system includes a colour coded scheme, ranging from green to orange, associated with letters from A to E. 
 Products designated with an 'A' have the best nutritional quality, while products designated with an E have poorer nutritional quality.
@@ -68,3 +68,4 @@ It will be derived from other products as follows:
   * 50% : Jams
   
 Tubers are not considered as vegetables for the nutri-score.
+![Nutri-Score](/img/nutri_score.png)
