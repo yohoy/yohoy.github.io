@@ -24,11 +24,17 @@ The more points one product has, the least healthy it is considered.
 To simplify things even further, the computed points are associated with a letter ranging from A to E, where A represents the best nutritional scores and E represents the worst.
 (For more details about the nutri-score, do not hesitate to check out our dedicated [page](/nutri_score).)
 
-We computed the nutri-score for as many products as we could, and we now present the results!
+We computed the nutri-score for as many products as we could (more than half a million), and we now present the results!
 
 ### Nutri-Score Visualisation
-Let's take a look at the percentage of grades for different food categories:
+Let's take a look at the percentage of grades for different food categories. You can hover over the pie charts below to find the percentage and number of values in each of the slices.
 <iframe width="750" height="650" frameborder="0" scrolling="no" src="//plot.ly/~yohoy/1.embed"></iframe>
 
-We can see that the `Fruits & Vegetables` group has great grades (you can see by hovering over its pie chart that almost 80% of its values are either A's or B's), whereas the `Beverages` group has the worst percentage of E's - which makes sense given the amount of sugar usually found in any beverage other than water. 
-We also notice that the `Snacks` group
+We can see that the `Fruits & Vegetables` group has great grades (you can see by hovering over its pie chart that almost 75% of its values are either A's or B's), whereas the `Snacks` group has the worst grades - more than 90% are either E or D. 
+We also notice that the `Beverages` and `Fat & Sauces` groups have a significant amount of E's, which makes sense because of all the sugar one is used to find in most sodas or in populas condiment sauces.
+Regarding the `Composite` category, we see it is reasonably distributed between the grades, with the exception of E's (not even 1%).
+This is due to the difficulty to create a calorical composite meal without any proteins, fibers, fruits, veggies or nuts...
+
+
+
+All these observations confort us in the relevance of the Nutri-Score.
