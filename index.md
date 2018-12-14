@@ -28,7 +28,7 @@ We computed the nutri-score for as many products as we could, and we now present
 
 ### Nutri-Score Visualisation
 Let's take a look at the percentage of grades for different food categories:
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~yohoy/1.embed"></iframe>
+<iframe width="750" height="650" frameborder="0" scrolling="no" src="//plot.ly/~yohoy/1.embed"></iframe>
 
 We can see that the `Fruits & Vegetables` group has great grades (you can see by hovering over its pie chart that almost 80% of its values are either A's or B's), whereas the `Beverages` group has the worst percentage of E's - which makes sense given the amount of sugar usually found in any beverage other than water. 
 We also notice that the `Snacks` group
