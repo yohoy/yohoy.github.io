@@ -24,7 +24,7 @@ The more points one product has, the least healthy it is considered.
 To simplify things even further, the computed points are associated with a letter ranging from A to E, where A represents the best nutritional scores and E represents the worst.
 (For more details about the nutri-score, do not hesitate to check out our dedicated [page](/nutri_score).)
 
-Great! Now we can start exploring the data!
+We computed the nutri-score for as many products as we could, and we now present the results!
 
 ### Nutri-Score Visualisation
 Below you can see the distribution of scores in our dataset.
@@ -38,8 +38,4 @@ We decided to take a look at the mean score of different food categories such as
 
 **todo** comment the plots
 
-<div>
-    <a href="https://plot.ly/~yohoy/1/?share_key=as8dcdEPaYUDvVX4spupis" target="_blank" title="Plot 1" style="display: block; text-align: center;"><img src="https://plot.ly/~yohoy/1.png?share_key=as8dcdEPaYUDvVX4spupis" alt="Plot 1" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
-    <script data-plotly="yohoy:1" sharekey-plotly="as8dcdEPaYUDvVX4spupis" src="https://plot.ly/embed.js" async></script>
-</div>
-
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~yohoy/1.embed"></iframe>
