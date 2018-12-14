@@ -27,15 +27,8 @@ To simplify things even further, the computed points are associated with a lette
 We computed the nutri-score for as many products as we could, and we now present the results!
 
 ### Nutri-Score Visualisation
-Below you can see the distribution of scores in our dataset.
-![Scores Distribution](/img/scores_distribution.png)
-
-**todo** add letters ranking and comment the plots
-
-We decided to take a look at the mean score of different food categories such as beverages or snacks in order to get a feeling of their respective "health tendencies".
-
-![Category Scores](/img/mean_category.png)
-
-**todo** comment the plots
-
+Let's take a look at the percentage of grades for different food categories:
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~yohoy/1.embed"></iframe>
+
+We can see that the `Fruits & Vegetables` group has great grades (you can see by hovering over its pie chart that almost 80% of its values are either A's or B's), whereas the `Beverages` group has the worst percentage of E's - which makes sense given the amount of sugar usually found in any beverage other than water. 
+We also notice that the `Snacks` group
