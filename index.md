@@ -27,7 +27,11 @@ To simplify things even further, the computed points are associated with a lette
 We computed the nutri-score for as many products as we could (more than half a million), and we now present the results!
 
 ### Nutri-Score Visualisation
-Let's take a look at the percentage of grades for different food categories. You can hover over the pie charts below to find the percentage and number of values in each of the slices.
+First, we show the number of elements found for each grade:
+<iframe width="750" height="650" frameborder="0" scrolling="no" src="//plot.ly/~yohoy/10.embed"></iframe>
+We see that the most represented grade is D. But more importantly, each grade is significantly represented, therefore we can continue our analysis without worrying about having too much bias in the grades distribution.
+
+Let's now take a look at the percentage of grades for different food categories. You can hover over the pie charts below to find the percentage and number of values in each of the slices.
 <iframe width="750" height="650" frameborder="0" scrolling="no" src="//plot.ly/~yohoy/1.embed"></iframe>
 
 We can see that the `Fruits & Vegetables` group has great grades (you can see by hovering over its pie chart that almost 75% of its values are either A's or B's), whereas the `Snacks` group has the worst grades - more than 90% are either E or D. 
