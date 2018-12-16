@@ -63,9 +63,9 @@ The first thing we notice is how clearly the `Fish, Meat & Eggs` category stands
 
 After the carbon footprint, it is interesting to look at the packaging.
 You will find below five pie charts corresponding to the five possible nutri-score grades and their packaging type distribution between:
-	* Plastic packaging
-	* Recyclable packaging
-	* Non-recyclable packaging
+* Plastic packaging
+* Recyclable packaging
+* Non-recyclable packaging
 
 **todo** explain the relevance of having the `Plastic` attribute have its own percentage
 
