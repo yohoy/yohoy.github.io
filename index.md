@@ -50,6 +50,8 @@ All these observations confort us in the relevance of the Nutri-Score.
 
 ## Ecological Observations
 Now that we got a feeling of the nutritional values distribution  per food category, we want to see if there are some correlations between these values and some ecological factors.
+
+### Carbon Footprint
 The first ecological factor we consider is the carbon footprint (per 100g).
 The next barplot shows the mean carbon footprint of each of our food categories:
 <div>
@@ -61,6 +63,7 @@ The first thing we notice is how clearly the `Fish, Meat & Eggs` category stands
 
 **todo** more comments
 
+### Packaging
 After the carbon footprint, it is interesting to look at the packaging.
 You will find below five pie charts corresponding to the five possible nutri-score grades and their packaging type distribution between:
 * Plastic packaging
@@ -77,3 +80,15 @@ You will find below five pie charts corresponding to the five possible nutri-sco
 It is clear that the lowest grades (`D` and `E`) have the most percentage of plastic packaging.
 
 **todo** more comments
+
+### Palm Oil
+Another interesting ecological disaster is the palm oil exploitation.
+Let's see what we can find:
+
+<div>
+    <a href="https://plot.ly/~yohoy/20/?share_key=H50HmbCPqaVAvxBzAv9MIT" target="_blank" title="Plot 20" style="display: block; text-align: center;"><img src="https://plot.ly/~yohoy/20.png?share_key=H50HmbCPqaVAvxBzAv9MIT" alt="Plot 20" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="yohoy:20" sharekey-plotly="H50HmbCPqaVAvxBzAv9MIT" src="https://plot.ly/embed.js" async></script>
+</div>
+
+This time the trend is clear; the number of palm oil elements increases exponentially as the nutri-score gets worse.
+**todo** elaborate on this amazing discovery
