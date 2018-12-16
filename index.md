@@ -42,7 +42,20 @@ We can see that the `Fruits & Vegetables` group has great grades (you can see by
 We also notice that the `Beverages` and `Fat & Sauces` groups have a significant amount of E's, which makes sense because of all the sugar one is used to find in most sodas or in populas condiment sauces.
 Regarding the `Composite` category, we see it is reasonably distributed between the grades, with the exception of E's (not even 1%).
 This is due to the difficulty to create a calorical composite meal without any proteins, fibers, fruits, veggies or nuts...
-
+**todo** more comments
 
 
 All these observations confort us in the relevance of the Nutri-Score.
+
+## Ecological Observations
+Now that we got a feeling of the nutritional values distribution  per food category, we want to see if there are some correlations between these values and some ecological factors.
+The first ecological factor we consider is the carbon footprint (per 100g).
+The next barplot shows the mean carbon footprint of each of our food categories:
+<div>
+    <a href="https://plot.ly/~yohoy/12/?share_key=XYWdXnvu1N8IprYI3Epew3" target="_blank" title="Plot 12" style="display: block; text-align: center;"><img src="https://plot.ly/~yohoy/12.png?share_key=XYWdXnvu1N8IprYI3Epew3" alt="Plot 12" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="yohoy:12" sharekey-plotly="XYWdXnvu1N8IprYI3Epew3" src="https://plot.ly/embed.js" async></script>
+</div>
+
+The first thing we notice is how clearly the `Fish, Meat & Eggs` category stands out as the most carbon-emitting while the `Fruits & Vegetables` group is by far the least carbon-emitting.
+**todo** more comments
+
