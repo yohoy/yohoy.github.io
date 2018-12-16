@@ -69,7 +69,7 @@ More on par with our subject is to compare the carbon footprint to the different
 Do the healthiest products produce more or less of a carbon footprint than the least healthy ones?
 What is the grade that produces the most carbon footprint?
 What about the one that produces the least?
-To respond to these question, we know take a look at the following plot, which gives the carbon footprint for each Nutri-Score grade:
+To respond to these question, we now take a look at the following plot, which gives the carbon footprint for each Nutri-Score grade:
 <div>
     <a href="https://plot.ly/~yohoy/22/?share_key=omrGE6j4VBVGR8QA8GEU2Y" target="_blank" title="Plot 22" style="display: block; text-align: center;"><img src="https://plot.ly/~yohoy/22.png?share_key=omrGE6j4VBVGR8QA8GEU2Y" alt="Plot 22" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
     <script data-plotly="yohoy:22" sharekey-plotly="omrGE6j4VBVGR8QA8GEU2Y" src="https://plot.ly/embed.js" async></script>
@@ -91,6 +91,7 @@ Instead of bar charts, we now go back to pie charts (they are more well-timed an
 * `Non-recyclable` packaging
 
 The reason why the `Plastic` packaging has its own percentage is because it might or might not be recyclable depending on many factors.
+
 **todo** Elaboration around the plastic packaging
 
 <div>
