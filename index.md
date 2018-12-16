@@ -42,6 +42,7 @@ We can see that the `Fruits & Vegetables` group has great grades (you can see by
 We also notice that the `Beverages` and `Fat & Sauces` groups have a significant amount of E's, which makes sense because of all the sugar one is used to find in most sodas or in populas condiment sauces.
 Regarding the `Composite` category, we see it is reasonably distributed between the grades, with the exception of E's (not even 1%).
 This is due to the difficulty to create a calorical composite meal without any proteins, fibers, fruits, veggies or nuts...
+
 **todo** more comments
 
 
@@ -57,5 +58,22 @@ The next barplot shows the mean carbon footprint of each of our food categories:
 </div>
 
 The first thing we notice is how clearly the `Fish, Meat & Eggs` category stands out as the most carbon-emitting while the `Fruits & Vegetables` group is by far the least carbon-emitting.
+
 **todo** more comments
 
+After the carbon footprint, it is interesting to look at the packaging.
+You will find below five pie charts corresponding to the five possible nutri-score grades and their packaging type distribution between:
+	* Plastic packaging
+	* Recyclable packaging
+	* Non-recyclable packaging
+
+**todo** explain the relevance of having the `Plastic` attribute have its own percentage
+
+<div>
+    <a href="https://plot.ly/~yohoy/18/?share_key=PCzxdwbxc59bJ2jn7UyQWZ" target="_blank" title="Plot 18" style="display: block; text-align: center;"><img src="https://plot.ly/~yohoy/18.png?share_key=PCzxdwbxc59bJ2jn7UyQWZ" alt="Plot 18" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="yohoy:18" sharekey-plotly="PCzxdwbxc59bJ2jn7UyQWZ" src="https://plot.ly/embed.js" async></script>
+</div>
+
+It is clear that the lowest grades (`D` and `E`) have the most percentage of plastic packaging.
+
+**todo** more comments
