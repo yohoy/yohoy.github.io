@@ -63,6 +63,15 @@ The first thing we notice is how clearly the `Fish, Meat & Eggs` category stands
 
 **todo** more comments
 
+Another usefull barplot is to show the carbon footprint per nutri-score:
+<div>
+    <a href="https://plot.ly/~yohoy/22/?share_key=omrGE6j4VBVGR8QA8GEU2Y" target="_blank" title="Plot 22" style="display: block; text-align: center;"><img src="https://plot.ly/~yohoy/22.png?share_key=omrGE6j4VBVGR8QA8GEU2Y" alt="Plot 22" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="yohoy:22" sharekey-plotly="omrGE6j4VBVGR8QA8GEU2Y" src="https://plot.ly/embed.js" async></script>
+</div>
+
+Now we see an obvious trend between the carbon footprint and the nutri-score.
+The worst the nutri-score gets, the bigger its carbon footprint; this is great news!
+
 ### Packaging
 After the carbon footprint, it is interesting to look at the packaging.
 You will find below five pie charts corresponding to the five possible nutri-score grades and their packaging type distribution between:
@@ -91,4 +100,5 @@ Let's see what we can find:
 </div>
 
 This time the trend is clear; the number of palm oil elements increases exponentially as the nutri-score gets worse.
+
 **todo** elaborate on this amazing discovery
