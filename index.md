@@ -28,7 +28,11 @@ We computed the nutri-score for as many products as we could (more than half a m
 
 ### Nutri-Score Visualisation
 First, we show the number of elements found for each grade:
-<iframe width="750" height="650" frameborder="0" scrolling="no" src="//plot.ly/~yohoy/10.embed"></iframe>
+<div>
+    <a href="https://plot.ly/~yohoy/10/?share_key=rZZXXmaX2NIrtn0YXOrrQr" target="_blank" title="Plot 10" style="display: block; text-align: center;"><img src="https://plot.ly/~yohoy/10.png?share_key=rZZXXmaX2NIrtn0YXOrrQr" alt="Plot 10" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+    <script data-plotly="yohoy:10" sharekey-plotly="rZZXXmaX2NIrtn0YXOrrQr" src="https://plot.ly/embed.js" async></script>
+</div>
+
 We see that the most represented grade is D. But more importantly, each grade is significantly represented, therefore we can continue our analysis without worrying about having too much bias in the grades distribution.
 
 Let's now take a look at the percentage of grades for different food categories. You can hover over the pie charts below to find the percentage and number of values in each of the slices.
