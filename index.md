@@ -44,9 +44,6 @@ We also notice that the `Beverages` and `Fat & Sauces` groups have a significant
 Regarding the `Composite` category, we see it is reasonably distributed between the grades, with the exception of `E`'s (not even 1%).
 This is due to the difficulty to create a calorical composite meal without any proteins, fibers, fruits, veggies or nuts...
 
-**todo** more comments
-
-
 All these observations confort us in the relevance of the Nutri-Score.
 
 ## Ecological Observations
@@ -91,8 +88,12 @@ Instead of bar charts, we now go back to pie charts (they are more well-timed an
 * `Non-recyclable` packaging
 
 The reason why the `Plastic` packaging has its own percentage is because it might or might not be recyclable depending on many factors.
-
-**todo** Elaboration around the plastic packaging
+Due to its global ecological impact, especially the impact on oceans, this packaging material is highly controversial.
+Food industry is among the industries producing the highest amount of plastic.
+When it’s made of PET, for beverages bottle, it is recyclable. 
+But when made from other materials, packaging materials are no longer recyclable especially when in direct contact to food due to chemical contamination.
+This part of the analysis shows that this material is still intensively used.
+The main point is that generally, the material used contribute to produce non-recyclable wastes and this vital industry for humans has a high scope of improvement while the quality of the food is being improved.
 
 <div>
     <a href="https://plot.ly/~yohoy/18/?share_key=PCzxdwbxc59bJ2jn7UyQWZ" target="_blank" title="Plot 18" style="display: block; text-align: center;"><img src="https://plot.ly/~yohoy/18.png?share_key=PCzxdwbxc59bJ2jn7UyQWZ" alt="Plot 18" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
@@ -129,4 +130,13 @@ Not really surprisingly, the `Snacks` category is once again the bad sheep.
 It is now the third time, after bad Nutri-Score grades and a big carbon footprint.
 
 ## Conclusion
-
+Health and ecological consciousness have grown during past years.
+Appearance of new labels such as nutritional scores or bio are more and more present.
+The food industry is facing a change especially in Western Europe and the evolution should continue over next years to face the people consciousness.
+Food is at the center of ecological impacts that can be divided in two segments.
+The first one is the direct climate change, indeed, One-third of greenhouse gas emissions come from agriculture.
+Animal based products represent the highest part. 
+The second one is the waste produced by the industry and is linked to the packaging which is actually not fully recyclable.
+Improvement have been made during the last years with more and more eco-friendly packaging.
+Many products are still packed with plastic and contribute in its high global production.
+The issue of next years will be to council the health and ecology in order to produce food that would be not only healthy but also eco-friendly.
